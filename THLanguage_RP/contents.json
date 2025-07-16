@@ -10,6 +10,12 @@
       "path": "contents.json"
     },
     {
+      "path": "font/font_metadata.json"
+    },
+    {
+      "path": "font/Minecraft-TenTH.ttf"
+    },
+    {
       "path": "subpacks/gb/texts/languages.json"
     },
     {
@@ -19,13 +25,13 @@
       "path": "subpacks/gb/texts/en_GB.lang"
     },
     {
+      "path": "subpacks/th/texts/th_TH.lang"
+    },
+    {
       "path": "subpacks/th/texts/languages.json"
     },
     {
       "path": "subpacks/th/texts/language_names.json"
-    },
-    {
-      "path": "subpacks/th/texts/th_TH.lang"
     }
   ],
   "version": 1

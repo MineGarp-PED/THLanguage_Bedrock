@@ -2,6 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/MineGarp-PED/THLanguage_Bedrock?style=social)](https://github.com/MineGarp-PED/THLanguage_Bedrock/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/MineGarp-PED/THLanguage_Bedrock?style=social)](https://github.com/MineGarp-PED/THLanguage_Bedrock/network/members)
+![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp-PED/THLanguage_Bedrock/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
 ![Minecraft Bedrock 1.21.93](https://img.shields.io/badge/Minecraft_Bedrock-1.21.93-brightgreen.svg)
 

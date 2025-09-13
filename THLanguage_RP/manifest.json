@@ -21,26 +21,6 @@
             "version": [1, 1, 0]
         }
     ],
-	"subpacks": [
-        {
-			"folder_name": "th",
-			"name": "รองรับส่วนเสริมภาษาไทย (Thai Support)",
-			"memory_tier": 0
-		},
-        {
-			"folder_name": "gb",
-			"name": "ค่าเริ่มต้น (Default)",
-			"memory_tier": 0
-		}
-	],
-     "settings": [
-        {
-            "type": "label",
-            "text": "§lค่าเริ่มต้น (Default):§r รีซอร์ซแพ็กจะทำงานโดยเป็นไฟล์ lang en_GB เพื่อลดปัญหาการบักภายใน Marketplace"
-        },
-        {
-            "type": "label",
-            "text": "§lรองรับส่วนเสริมภาษาไทย (Thai Support):§r สำหรับผู้พัฒนาส่วนเสริม และ อื่น ๆ ที่ต้องการให้รองรับภาษาไทยไฟล์ lang th_TH"
-        }
-      ]
+	"subpacks": [],
+    "settings": []
 }

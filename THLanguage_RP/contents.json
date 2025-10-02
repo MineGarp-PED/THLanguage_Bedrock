@@ -22,6 +22,12 @@
       "path": "font/GoNotoCurrent-Bold.ttf"
     },
     {
+      "path": "ui/brewing_stand_screen.json"
+    },
+    {
+      "path": "ui/brewing_stand_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

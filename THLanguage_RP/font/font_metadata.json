@@ -5,8 +5,22 @@
             "font_format": "ttf",
             "font_name": "MinecraftTen",
             "version": 1,
-            "font_file": "font/Minecraft-TenTH",
-            "lowPerformanceCompatible": false
+            "font_file": "font/MinecraftTenTH",
+            "lowPerformanceCompatible": true
+        },
+        {
+            "font_format": "ttf",
+            "font_name": "GoNotoCurrent-Regular",
+            "version": 1,
+            "font_file": "font/GoNotoCurrent-Regular",
+            "lowPerformanceCompatible": true
+        },
+        {
+            "font_format": "ttf",
+            "font_name": "GoNotoCurrent-Bold",
+            "version": 1,
+            "font_file": "font/GoNotoCurrent-Bold",
+            "lowPerformanceCompatible": true
         }
     ]
 }

@@ -28,6 +28,12 @@
       "path": "ui/brewing_stand_screen_pocket.json"
     },
     {
+      "path": "ui/anvil_screen.json"
+    },
+    {
+      "path": "ui/anvil_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

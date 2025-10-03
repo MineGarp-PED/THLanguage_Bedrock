@@ -43,6 +43,12 @@
       "path": "ui/book_screen.json"
     },
     {
+      "path": "ui/cartography_screen.json"
+    },
+    {
+      "path": "ui/cartography_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

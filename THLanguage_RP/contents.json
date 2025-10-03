@@ -34,6 +34,12 @@
       "path": "ui/anvil_screen_pocket.json"
     },
     {
+      "path": "ui/beacon_screen.json"
+    },
+    {
+      "path": "ui/beacon_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

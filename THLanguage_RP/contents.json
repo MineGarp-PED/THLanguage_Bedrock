@@ -64,6 +64,12 @@
       "path": "ui/enchanting_screen_pocket.json"
     },
     {
+      "path": "ui/furnace_screen.json"
+    },
+    {
+      "path": "ui/furnace_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

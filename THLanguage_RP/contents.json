@@ -58,6 +58,12 @@
       "path": "ui/chest_screen.json"
     },
     {
+      "path": "ui/enchanting_screen.json"
+    },
+    {
+      "path": "ui/enchanting_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

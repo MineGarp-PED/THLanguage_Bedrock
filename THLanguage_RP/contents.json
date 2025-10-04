@@ -55,6 +55,9 @@
       "path": "ui/chat_settings_menu_screen.json"
     },
     {
+      "path": "ui/chest_screen.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

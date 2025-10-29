@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/MineGarp-PED/THLanguage_Bedrock?style=social)](https://github.com/MineGarp-PED/THLanguage_Bedrock/network/members)
 ![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp-PED/THLanguage_Bedrock/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
-![Minecraft Bedrock 1.21.100](https://img.shields.io/badge/Minecraft_Bedrock-1.21.110-brightgreen.svg)
+![Minecraft Bedrock 1.21.120](https://img.shields.io/badge/Minecraft_Bedrock-1.21.120-brightgreen.svg)
 
 โปรเจกต์รีซอร์ซแพ็กภาษาไทยสำหรับเกม **Minecraft: Bedrock Edition** ที่สมบูรณ์และอัปเดตที่สุด จัดทำและดูแลโดยชุมชน **มายก๊าบดอทเป็ด (MineGarp.PED)** โดยมีเป้าหมายเพื่อมอบประสบการณ์การเล่นเกมฉบับภาษาไทยที่ถูกต้องและเป็นธรรมชาติที่สุดสำหรับผู้เล่นทุกคน
 
@@ -62,8 +62,8 @@
 
 ## 🔠 เครดิตฟอนต์ (Font Credit)
 
-- 2005_iannnnnAMD, MinecraftTenTH (เฉพาะตัวไทยทั้งหมดจากฟอนต์ IannnnnCPU) - **ปรัชญา สิงห์โต (Iannnnn)**
-- Mojangles , [ Mojang , MinecraftTenTH (ไม่รวมตัวไทยทั้งหมด) ] - **Mojang Studios**
+- MinecraftTenTH (เฉพาะตัวไทยทั้งหมดจากฟอนต์ IannnnnCPU) - **ปรัชญา สิงห์โต (Iannnnn)**
+- MinecraftTenTH (ไม่รวมตัวไทยทั้งหมด) - **Mojang Studios**
 
 ## ❤️ ผู้สนับสนุนและทีมงาน (Credits)
 

@@ -64,6 +64,12 @@
       "path": "ui/furnace_screen_pocket.json"
     },
     {
+      "path": "ui/stonecutter_screen.json"
+    },
+    {
+      "path": "ui/stonecutter_screen_pocket.json"
+    },
+    {
       "path": "texts/en_GB.lang"
     },
     {

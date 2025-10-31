@@ -21,6 +21,24 @@
     {
       "path": "font/GoNotoCurrent-Bold.ttf"
     },
+     {
+      "path": "font/default8.png"
+    },
+    {
+      "path": "font/glyph_00.png"
+    },
+    {
+      "path": "font/glyph_0E.png"
+    },
+    {
+      "path": "font/glyph_01.png"
+    },
+    {
+      "path": "font/glyph_1E.png"
+    },
+    {
+      "path": "font/glyph_02.png"
+    },
     {
       "path": "ui/brewing_stand_screen.json"
     },
@@ -69,6 +87,9 @@
     {
       "path": "ui/stonecutter_screen_pocket.json"
     },
+    {
+      "path": "ui/pause_screen.json"
+    },  
     {
       "path": "texts/en_GB.lang"
     },

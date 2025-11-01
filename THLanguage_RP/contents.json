@@ -95,7 +95,13 @@
     },
     {
       "path": "ui/grindstone_screen_pocket.json"
-    }
+    },
+    {
+      "path": "ui/crafter_pocket.json"
+    },
+    {
+      "path": "ui/pocket_containers.json"
+    },
     {
       "path": "texts/en_GB.lang"
     },

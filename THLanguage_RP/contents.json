@@ -88,8 +88,14 @@
       "path": "ui/stonecutter_screen_pocket.json"
     },
     {
-      "path": "ui/pause_screen.json"
-    },  
+      "path": "ui/loom_screen.json"
+    },
+    {
+      "path": "ui/grindstone_screen.json"
+    },
+    {
+      "path": "ui/grindstone_screen_pocket.json"
+    }
     {
       "path": "texts/en_GB.lang"
     },

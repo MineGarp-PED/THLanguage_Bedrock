@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/MineGarp/THLanguage_Bedrock?style=social)](https://github.com/MineGarp/THLanguage_Bedrock/network/members)
 ![GitHub Downloads](https://img.shields.io/github/downloads/MineGarp/THLanguage_Bedrock/total)
 [![Discord](https://img.shields.io/discord/992026973746511912?label=Discord&logo=discord)](https://discord.gg/mvZChPs72R)
-![Minecraft Bedrock 26.20](https://img.shields.io/badge/Minecraft_Bedrock-26.20-brightgreen.svg)
+![Minecraft Bedrock 26.30](https://img.shields.io/badge/Minecraft_Bedrock-26.30-brightgreen.svg)
 
 โปรเจกต์รีซอร์ซแพ็กภาษาไทยสำหรับเกม **Minecraft: Bedrock Edition** ที่สมบูรณ์และอัปเดตที่สุด จัดทำและดูแลโดยชุมชน **MineGarp (มายก๊าบดอทเป็ด)** โดยมีเป้าหมายเพื่อมอบประสบการณ์การเล่นเกมฉบับภาษาไทยที่ถูกต้องและเป็นธรรมชาติที่สุดสำหรับผู้เล่นทุกคน
 
@@ -12,7 +12,7 @@
 
 This project is the most complete and up-to-date Thai Language Resource Pack for **Minecraft: Bedrock Edition**, created and maintained by the **MineGarp (or MineGarp.PED)** community. Its goal is to provide the most accurate and natural Thai-language experience for all players.
 
-This project is open source. Everyone can access the source code, use it, and contribute to its development under the [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE)
+This project is open source. Everyone can access the source code, use it, and contribute to its development under the [MIT License](https://github.com/MineGarp/THLanguage_Bedrock/blob/main/LICENSE).
 
 ## ⚠️ ข้อจำกัดความรับผิด (Disclaimer)
 
@@ -36,6 +36,7 @@ This project is open source. Everyone can access the source code, use it, and co
 ## ℹ️ ปัญหาที่รับทราบแล้ว (Known Issues)
 
 - ปัญหาการแสดงผลฟอนต์ Unicode ที่ยังคงเหลือจากการแก้ไข [(MCPE-166005)](https://bugs.mojang.com/browse/MCPE/issues/MCPE-166005) - [MCPE-224612](https://bugs.mojang.com/browse/MCPE/issues/MCPE-224612)
+- คอนเทนต์เนื้อหาใน Marketplace/My Content (เนื้อหาของฉัน) ไม่แสดงผล - [MCPE-224860](https://bugs.mojang.com/browse/MCPE-224860)<br>
 
 ## 📚 แหล่งอ้างอิงข้อมูล (References)
 
@@ -68,7 +69,7 @@ This project is open source. Everyone can access the source code, use it, and co
 
 * **รายงานคำแปลที่ผิดพลาด:** หากพบเจอคำแปลที่ผิด, ไม่เป็นธรรมชาติ หรือมีข้อเสนอแนะ สามารถเปิด [Issue](https://github.com/MineGarp/THLanguage_Bedrock/issues) บน GitHub ได้เลย
 * **เสนอคำแปลใหม่ (Pull Request):** หากคุณต้องการแก้ไขหรือเพิ่มเติมคำแปล เกมเวอร์ชันใหม่ สามารถ Fork โปรเจกต์นี้แล้วส่ง Pull Request กลับมาได้นะครับ
-* **แลกเปลี่ยนและเสนอแนะ:** เข้าร่วมพูดคุยและเสนอแนะเกี่ยวกับโปรเจกต์ได้ที่ [Discord ของ มายก๊าบดอทเป็ด](https://discord.gg/GCY38MDR2u)
+* **แลกเปลี่ยนและเสนอแนะ:** เข้าร่วมพูดคุยและเสนอแนะเกี่ยวกับโปรเจกต์ได้ที่ [Discord ของ MineGarp](https://discord.gg/GCY38MDR2u)
 
 ## 🔠 รายละเอียดเกี่ยวกับฟอนต์ (Font Details)
 

@@ -21957,15 +21957,6 @@ resourcePack.editor.customDimensions.warning.alreadyExists=มีมิติท
 resourcePack.editor.customDimensions.button.delete.tooltip=ลบมิติแบบกำหนดเองนี้
 resourcePack.editor.customDimensions.dialog.nameField.validationFailed=ชื่อมิติไม่ถูกต้อง
 
-## furnace_recipe_book
-furnaceScreen.tab.search=ทั้งหมด
-furnaceScreen.tab.search.filterFurnace=ที่เผาได้
-furnaceScreen.tab.search.filterSmoker=ที่รมควันได้
-furnaceScreen.tab.food=อาหาร
-furnaceScreen.tab.blocks=บล็อก
-furnaceScreen.tab.items=ไอเทม
-furnaceScreen.tab.inventory=ช่องเก็บของ
-
 ## experimental_y_2026_drop_2
 entity.sulfur_cube.name=สไลม์กำมะถัน
 item.spawn_egg.entity.sulfur_cube.name=ไข่เกิดสไลม์กำมะถัน
